@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sourabh Patel.
 - 👀 I’m interested in Open-Source Projects.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on some Javascript based projects.
 - 📫 getmeapencil@gmail.com
