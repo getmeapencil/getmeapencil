@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sourabh Patel.
-- 🌱 SWE Intern at [userevaluation](https://www.userevaluation.com/).
+- 🌱 SWE at [userevaluation](https://www.userevaluation.com/).
 - 📫 getmeapencil@gmail.com
