@@ -1,8 +1,7 @@
 #### 👋 Hi! I'm a Full-Stack Web Developer
 I'm passionate about building scalable, secure, and responsive web applications powered by modern tech.
 
-#### 💼 Currently @ Neu Software LLC
-*(the team behind [userevaluation.com](https://userevaluation.com))* <br/>
+#### 💼 Currently @ Neu Software LLC *(the team behind [userevaluation.com](https://userevaluation.com))*
 Working on Firemail – an AI-powered email client *with vibes*. <br/>
 From backend logic to frontend finesse, I help craft smart, user-friendly experiences.
 
