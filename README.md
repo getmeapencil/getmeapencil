@@ -11,4 +11,5 @@ React, Node.js, Express, MongoDB and more.
 🤖 Exploring AI integration in web apps <br/>
 🌐 Building with performance, usability & security in mind
 
-🔗 Know more: [getmeapencil.com](https://getmeapencil.com)
+🔗 Know more: [getmeapencil.com](https://getmeapencil.com) <br/>
+📄 View Resume: [resume.getmeapencil.com](https://resume.getmeapencil.com)
