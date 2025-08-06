@@ -5,7 +5,7 @@ I'm a Full-Stack Web Developer who is passionate about building scalable, secure
 Working on Firemail – an AI-powered email client *with vibes*. <br/>
 From backend logic to frontend finesse, I help craft smart, user-friendly experiences.
 
-#### 🛠️ Tech I Use & Love:
+#### 🛠️ Tech I Use:
 React, Node.js, Express, MongoDB and more.
 
 🤖 Exploring AI integration in web apps <br/>
